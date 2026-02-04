@@ -1,101 +1,105 @@
-## Olá, meu nome é Luiz Gabriel!
+# Luiz Gabriel 👋
 
-## Sobre mim
+Front-End Developer focused on building scalable, high-performance web applications using modern JavaScript frameworks.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uniasselvi.
-- 💼 Trabalhando como desenvolvedor Front-End na MrPay.
-- 🌱 Aprendendo mais sobre Back-End.
-
-## Minhas Skills
-
-**Aplicações e dados**
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=next.js)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Postgres](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
-
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<br/>
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=luizgabrielc&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgabrielc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=luizgabrielc&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
---- 
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=luizgabrielc&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
+📧 **Email:** gabrielca.dev@gmail.com  
+📱 **Phone:** +55 (98) 99247-2146  
+💻 **GitHub:** [github.com/luizgabrielc](https://github.com/luizgabrielc)  
+🔗 **LinkedIn:** [linkedin.com/in/dev-luiz-gabriel](https://linkedin.com/in/dev-luiz-gabriel)
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+## 🚀 Skills
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/luizgabrielc/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+**Languages**  
+- JavaScript  
+- TypeScript  
+- HTML  
+- CSS  
+
+**Frameworks & Libraries**  
+- React  
+- Next.js  
+- TailwindCSS  
+- Styled Components  
+
+**Tools & Platforms**  
+- AWS (CloudFront, Amplify)  
+- GitHub & GitHub Actions  
+- Vercel  
+- Swagger  
+- Postman  
+- Jest  
+- Cypress  
+
+**Databases**  
+- MongoDB  
+- PostgreSQL  
+
+**Methodologies**  
+- Scrum  
+- Agile  
+- Multi-Tenant Architecture  
+
+---
+
+## 💼 Work Experience
+
+### **Loomi**  
+**Front-End Developer**  
+*Sept 2025 – Present*
+
+- Engineered scalable web applications using **Next.js**, **TypeScript**, and **TailwindCSS**, improving UI performance by ~30%.
+- Worked on **CX Bloom**, a multi-tenant AI-powered customer support platform designed to scale to millions of users via Feature Flags.
+- Integrated REST APIs and event-driven pipelines, reducing manual operational tasks by 25%.
+- Optimized complex components using `useCallback`, `useMemo`, and custom hooks, reducing unnecessary re-renders by 40%.
+- Established automated testing pipelines with **Cypress**, increasing release reliability and reducing regression bugs by 20%.
+
+---
+
+### **MrPay**  
+**Front-End Developer**  
+*Dec 2022 – Sept 2025*
+
+- Developed and maintained high-traffic financial web applications using **Next.js** and **TypeScript**, supporting thousands of monthly transactions.
+- Architected payment portals processing over **R$10M monthly**, ensuring high availability and consistent performance.
+- Replaced a third-party transaction system with an in-house multi-tenant solution, reducing operational costs by 10%.
+- Integrated RESTful APIs and optimized data rendering, improving page load times by 35%.
+- Expanded unit test coverage with **Jest**, achieving ~70% overall coverage.
+
+---
+
+### **MrPay**  
+**Front-End Developer (Part-time)**  
+*Jul 2022 – Nov 2022*
+
+- Built responsive user interfaces using **Vanilla JavaScript**, **HTML**, and **TailwindCSS**, with a strong focus on performance and accessibility.
+- Revamped the Establishments Portal, improving usability scores by approximately 20%.
+- Defined front-end architecture and automated deployment pipelines, reducing deployment time by 50%.
+
+---
+
+### **Freelancer**  
+**Front-End Developer**  
+*Mar 2021 – Present*
+
+- Designed and delivered modern, responsive interfaces for startups and small businesses, increasing user satisfaction by 30%+.
+- Built scalable full-stack applications using **React**, **Next.js**, **Prisma**, and **MongoDB**.
+- Integrated external APIs and real-time data services, reducing manual data handling by 40%.
+- Introduced unit and integration testing with **Jest** and **React Testing Library**, reducing post-launch bugs by 25%.
+
+---
+
+## 🎓 Education
+
+**Uniasselvi**  
+*2023 – Present*  
+Associate Degree in **Systems Analysis and Development**
+
+---
+
+## 🌍 Languages
+
+- **Portuguese:** Native  
+- **English:** Intermediate (B1)  
+- **Spanish:** Intermediate (A2)
